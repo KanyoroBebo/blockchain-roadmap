@@ -1,4 +1,4 @@
-# ✅ Blockchain Smart Contract + Security Roadmap (6 Months)
+# ✅ Blockchain Smart Contract + Security Roadmap
 
 **Schedule:** ~27 hours/week (5h weekdays + 2h Saturday)  
 **Goal:** Become a Smart Contract Developer with a strong focus on Security & Auditing.
@@ -12,10 +12,10 @@
 <summary>🗓️ Week 1 – Blockchain Basics</summary>
 
 - [x] Learn what a blockchain is (blocks, nodes, consensus)
-- [] Study Ethereum architecture (EVM, gas, accounts)
-- [ ] Watch “Intro to Ethereum” (freeCodeCamp or Dapp University)
+- [x] Study Ethereum architecture (EVM, gas, accounts)
+- [x] Watch “Intro to Ethereum” (freeCodeCamp or Dapp University)
 - [ ] Read: [ethereum.org → What is Ethereum?](https://ethereum.org/en/what-is-ethereum/)
-- [ ] Install MetaMask and explore test networks (Sepolia/Goerli)
+- [x] Install MetaMask and explore test networks (Sepolia/Goerli)
 
 </details>
 
@@ -24,16 +24,16 @@
 
 - [ ] Complete **CryptoZombies** up to level 5  
 - [ ] Study **[Solidity by Example](https://solidity-by-example.org)**  
-- [ ] Understand visibility, modifiers, and constructors  
-- [ ] Deploy a simple contract in Remix IDE  
+- [x] Understand visibility, modifiers, and constructors  
+- [x] Deploy a simple contract in Remix IDE  
 
 </details>
 
 <details>
 <summary>🗓️ Week 3 – Data Structures & Inheritance</summary>
 
-- [ ] Learn arrays, mappings, structs  
-- [ ] Practice modifiers, events, and error handling  
+- [x] Learn arrays, mappings, structs  
+- [x] Practice modifiers, events, and error handling  
 - [ ] Learn inheritance and interfaces  
 
 </details>
@@ -193,7 +193,7 @@
 
 ---
 
-## 🎯 Phase 6: Specialization & Long-Term Goals (Post Month 6)
+## 🎯 Phase 6: Specialization & Long-Term Goals
 **Objective:** Continue developing expertise & portfolio presence.
 
 - [ ] Learn **Rust** for Solana/Substrate  

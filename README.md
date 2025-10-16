@@ -14,7 +14,7 @@
 - [x] Learn what a blockchain is (blocks, nodes, consensus)
 - [x] Study Ethereum architecture (EVM, gas, accounts)
 - [x] Watch “Intro to Ethereum” (freeCodeCamp or Dapp University)
-- [ ] Read: [ethereum.org → What is Ethereum?](https://ethereum.org/en/what-is-ethereum/)
+- [x] Read: [ethereum.org → What is Ethereum?](https://ethereum.org/en/what-is-ethereum/)
 - [x] Install MetaMask and explore test networks (Sepolia/Goerli)
 
 </details>
@@ -22,7 +22,7 @@
 <details>
 <summary>🗓️ Week 2 – Solidity Syntax</summary>
 
-- [ ] Complete **CryptoZombies** up to level 5  
+- [x] Complete **CryptoZombies** up to level 5  
 - [ ] Study **[Solidity by Example](https://solidity-by-example.org)**  
 - [x] Understand visibility, modifiers, and constructors  
 - [x] Deploy a simple contract in Remix IDE  
@@ -34,7 +34,7 @@
 
 - [x] Learn arrays, mappings, structs  
 - [x] Practice modifiers, events, and error handling  
-- [ ] Learn inheritance and interfaces  
+- [x] Learn inheritance and interfaces  
 
 </details>
 

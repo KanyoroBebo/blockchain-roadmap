@@ -41,33 +41,33 @@
 <details>
 <summary>🗓️ Week 4 – 🧩 Project #1: MyToken (ERC-20)</summary>
 
-- [ ] Implement ERC-20 token (mint, burn, transfer)
-- [ ] Test in Remix with multiple accounts
-- [ ] Write README.md explaining token logic
-- [ ] Push to GitHub ✅  
+- [x] Implement ERC-20 token (mint, burn, transfer)
+- [x] Test in Remix with multiple accounts
+- [x] Write README.md explaining token logic
+- [x] Push to GitHub ✅  
 
 </details>
 
 ---
 
 ## ⚙️ Phase 2: Tooling & Workflow (Weeks 5–9)
-**Objective:** Move from Remix to a full professional dev setup using Hardhat/Foundry.
+**Objective:** Move from Remix to a full professional dev setup using Foundry.
 
 <details>
 <summary>🗓️ Week 5 – Environment Setup</summary>
 
-- [ ] Install Node.js, Hardhat, and Foundry  
-- [ ] Initialize a new Hardhat project  
-- [ ] Learn compilation, deployment, testing commands  
+- [x] Install Foundry (`forge`, `cast`, `anvil`)  
+- [x] Initialize a new Foundry project  
+- [ ] Learn compilation, deployment, and testing commands  
 
 </details>
 
 <details>
-<summary>🗓️ Week 6 – Hardhat Testing & Scripts</summary>
+<summary>🗓️ Week 6 – Foundry Testing & Scripts</summary>
 
-- [ ] Write unit tests in Mocha + Chai  
+- [ ] Write unit tests in Solidity using `forge-std/Test.sol`  
 - [ ] Create and run deployment scripts  
-- [ ] Simulate contract interactions on localhost  
+- [ ] Simulate contract interactions on Anvil (local blockchain)  
 
 </details>
 

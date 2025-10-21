@@ -58,7 +58,7 @@
 
 - [x] Install Foundry (`forge`, `cast`, `anvil`)  
 - [x] Initialize a new Foundry project  
-- [ ] Learn compilation, deployment, and testing commands  
+- [x] Learn compilation, deployment, and testing commands  
 
 </details>
 

@@ -65,9 +65,9 @@
 <details>
 <summary>🗓️ Week 6 – Foundry Testing & Scripts</summary>
 
-- [ ] Write unit tests in Solidity using `forge-std/Test.sol`  
-- [ ] Create and run deployment scripts  
-- [ ] Simulate contract interactions on Anvil (local blockchain)  
+- [x] Write unit tests in Solidity using `forge-std/Test.sol`  
+- [x] Create and run deployment scripts  
+- [x] Simulate contract interactions on Anvil (local blockchain)  
 
 </details>
 

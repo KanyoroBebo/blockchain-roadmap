@@ -23,8 +23,7 @@
 <summary>🗓️ Week 2 – Solidity Syntax</summary>
 
 - [x] Complete **CryptoZombies** up to level 5  
-- [ ] Study **[Solidity by Example](https://solidity-by-example.org)**  
-- [x] Understand visibility, modifiers, and constructors  
+- [ ] *Study **[Solidity by Example](https://solidity-by-example.org)** (High priority, review this site repeatedly)* - [x] Understand visibility, modifiers, and constructors  
 - [x] Deploy a simple contract in Remix IDE  
 
 </details>
@@ -43,6 +42,7 @@
 
 - [x] Implement ERC-20 token (mint, burn, transfer)
 - [x] Test in Remix with multiple accounts
+- [ ] *Re-implement by inheriting from **OpenZeppelin Contracts** (standard, secure method)*
 - [x] Write README.md explaining token logic
 - [x] Push to GitHub ✅  
 
@@ -77,6 +77,7 @@
 - [ ] Set up React + Ethers.js  
 - [ ] Connect MetaMask wallet and display account info  
 - [ ] Build basic UI to interact with contract  
+- [ ] *Note: Useful skill, but optional if focusing purely on security. Don't let it block Phase 3.*
 
 </details>
 
@@ -99,8 +100,8 @@
 <summary>🗓️ Week 10 – Vulnerabilities Overview</summary>
 
 - [ ] Study reentrancy, tx.origin misuse, overflow/underflow  
-- [ ] Review **[SWC Registry](https://swcregistry.io)**  
-- [ ] Read OpenZeppelin’s security best practices  
+- [ ] *Study common **Access Control** issues (onlyOwner, insecure roles)*
+- [ ] Review **[SWC Registry](https://swcregistry.io)** - [ ] Read OpenZeppelin’s security best practices  
 
 </details>
 
@@ -109,6 +110,7 @@
 
 - [ ] Complete first 5 **[Ethernaut](https://ethernaut.openzeppelin.com)** levels  
 - [ ] Solve 2–3 **[Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz)** challenges  
+- [ ] *Note: DVD is advanced. It's okay if this is challenging; the goal is to learn, not just to solve.*
 - [ ] Read one real audit report (Code4rena or OpenZeppelin)  
 
 </details>
@@ -143,9 +145,7 @@
 
 - [ ] Use Foundry Forge for property-based tests  
 - [ ] Implement invariants for lending logic  
-- [ ] Integrate static analysis with **Slither**  
-
-</details>
+- [ ] Integrate static analysis with **Slither** </details>
 
 <details>
 <summary>🗓️ Week 18–20 – 🧩 Project #4: Mini DeFi Protocol</summary>

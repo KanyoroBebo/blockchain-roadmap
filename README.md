@@ -82,12 +82,17 @@
 </details>
 
 <details>
-<summary>🗓️ Week 8–9 – 🧩 Project #2: Decentralized Crowdfunding dApp</summary>
+<summary>🗓️ Week 8–9 – 🧩 Project #2: Secure Multi-Signature Wallet</summary>
 
-- [ ] Smart contract: campaign creation, funding, withdrawal  
-- [ ] Front-end: campaign dashboard with wallet connect  
-- [ ] Tests: ensure proper fund transfers  
-- [ ] Document & push to GitHub ✅  
+- [ ] **Smart contract:** Implement a MultiSig wallet contract (allowing N owners, requiring M confirmations).
+- [ ] **Core Logic:** Include functions for submitting transactions, confirming transactions, revoking confirmation, and executing the transaction.
+- [ ] **Tests:** Write comprehensive unit tests for all access control scenarios, including:
+    * Testing successful execution when M confirmations are met.
+    * Testing failure if a non-owner tries to submit or confirm.
+    * Testing failure if M is not met.
+    * Testing the revocation of a confirmation.
+- [ ] **Deployment Script:** Write a deployment script to deploy the MultiSig wallet with 3 initial owners and a required threshold of 2.
+- [ ] Document & push to GitHub ✅
 
 </details>
 
@@ -101,7 +106,8 @@
 
 - [ ] Study reentrancy, tx.origin misuse, overflow/underflow  
 - [ ] *Study common **Access Control** issues (onlyOwner, insecure roles)*
-- [ ] Review **[SWC Registry](https://swcregistry.io)** - [ ] Read OpenZeppelin’s security best practices  
+- [ ] Review **[SWC Registry](https://swcregistry.io)**
+- [ ] Read OpenZeppelin’s security best practices  
 
 </details>
 
